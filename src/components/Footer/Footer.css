@@ -1,0 +1,14 @@
+footer {
+    padding: 15px 40px;
+    background-color: orange;
+    color: white;
+}
+.footerCon {
+    display: flex;
+    justify-content: space-between;
+}
+
+footer p {
+    text-align: center;
+    padding-top: 10px;
+}

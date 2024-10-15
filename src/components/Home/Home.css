@@ -1,0 +1,14 @@
+.heroCon {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    height: 69vh;
+}
+
+.imgCon img {
+    height: 25rem;
+    width: 20rem;
+    border-radius: 10px;
+}
+

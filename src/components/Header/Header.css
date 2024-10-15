@@ -1,0 +1,25 @@
+.header{
+    width: 100%;
+    box-shadow: 0 5px 3.5px rgba(0, 0, 0, 0.331);
+    padding: 25px;
+}
+
+.navBar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn {
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    color: #fff;
+}
+
+.navBar h1 {
+    color: green;
+}
+

@@ -1,0 +1,52 @@
+.formCon {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    margin: 2rem 0;
+    border-top: 1px solid orange;
+    padding-top: 25px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+input {
+    border: 1px solid orange;
+    height: 40px;
+    width: 400px;
+    border-radius: 10px;
+    background-color: transparent;
+    padding-left: 5px;
+    font-size: 14px;
+}
+
+#msg {
+    min-height: 200px;
+    min-width: 400px;
+    max-width: 400px;
+    border: 1px solid orange;
+    padding: 5px 0 0 5px;
+    border-radius: 10px;
+    font-size: 14px;
+}
+
+.submitBtn {
+    background-color: orange;
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.formGroup {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
