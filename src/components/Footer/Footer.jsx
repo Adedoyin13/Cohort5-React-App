@@ -22,7 +22,7 @@ const Footer = () => {
             <p>Our Pages</p>
         </div>
         </div>
-        <p>&copy;{currentYear} copyright. All Rights Reserved!</p>
+        <p>&copy;copyright {currentYear}. All Rights Reserved!</p>
     </footer>
   )
 }

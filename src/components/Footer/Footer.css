@@ -2,6 +2,10 @@ footer {
     padding: 15px 40px;
     background-color: orange;
     color: white;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
 }
 .footerCon {
     display: flex;
